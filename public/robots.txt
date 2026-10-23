@@ -1,0 +1,8 @@
+# Robots.txt for https://thetechcraft.co.ke
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://thetechcraft.co.ke/sitemap.xml
